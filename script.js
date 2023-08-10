@@ -1,1 +1,1 @@
-
+let yourArray = ["Javascript", 123, true, undefined, false];
